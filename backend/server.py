@@ -41,7 +41,7 @@ detected_label = "No sign detected"  # Initialize with a default label
 current_language = "english"  # Default language
 
 # Path to save the audio
-audio_folder_path = r"../audio"
+audio_folder_path = None
 
 # Ensure the audio folder exists
 if not os.path.exists(audio_folder_path):
