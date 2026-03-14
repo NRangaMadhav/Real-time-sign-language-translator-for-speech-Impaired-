@@ -1,5 +1,6 @@
-REAL TIME SIGN LANGUAGE TRANSLATOR
-==================================
+REAL TIME SIGN LANGUAGE TRANSLATOR FOR SPEECH IMPAIRED
+======================================================
+https://ieeexplore.ieee.org/document/11158535
 
 Project Description
 -------------------
